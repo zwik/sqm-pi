@@ -6,7 +6,7 @@ idna==3.3
 isort==5.10.1
 lazy-object-proxy==1.7.1
 mccabe==0.7.0
-pylint==2.13.0
+pylint==2.13.2
 python-tsl2591==0.2.0
 six==1.16.0
 smbus2==0.4.1
