@@ -1,4 +1,4 @@
-﻿astroid==2.12.6
+﻿astroid==2.12.8
 certifi==2022.6.15
 chardet==5.0.0
 colorama==0.4.5
