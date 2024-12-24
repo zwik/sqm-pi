@@ -1,4 +1,4 @@
-astroid==3.3.7
+astroid==3.3.8
 certifi==2024.12.14
 chardet==5.2.0
 colorama==0.4.6
